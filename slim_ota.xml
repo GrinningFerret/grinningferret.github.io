@@ -1,62 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
-        <w7>
-            <Filename></Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download latest SlimSaber build"></RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download SlimSaber changelogs"></ChangelogUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="My xda-developers profile">http://forum.xda-developers.com/member.php?u=6143324</XDAUrl>
-	</w7>
-	 <w7ds>
-            <Filename></Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download latest SlimSaber build"></RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download SlimSaber changelogs"></ChangelogUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="My xda-developers profile">http://forum.xda-developers.com/member.php?u=6143324</XDAUrl>
-	</w7ds>
-	 <w7n>
-            <Filename></Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download latest SlimSaber build"></RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download SlimSaber changelogs"></ChangelogUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="My xda-developers profile">http://forum.xda-developers.com/member.php?u=6143324</XDAUrl>
-	</w7n>
-    </Stable>
+<Stable>
+    <w7>
+        <Filename>****</Filename>
+	<DownloadUrl>****</DownloadUrl>
+    </w7>
+    <w7n>
+        <Filename>****</Filename>
+        <DownloadUrl>****</DownloadUrl>
+    </w7n>
+    <w7ds>
+        <Filename>****</Filename>
+        <DownloadUrl>****</DownloadUrl>
+    </w7ds>
+</Stable>
 </SlimOTA>
