@@ -10,7 +10,7 @@
       <ChangelogUrl
         id="changelog"
         title="Changelog"
-        description="Changelog">****</ChangelogUrl>
+        description="Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
       <GappsUrl
         id="gapps"
         title="Gapps"
@@ -18,7 +18,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit SlimSaber bacon thread">****</XDAUrl>
+         description="Visit OrionLP LG L90 thread">****</XDAUrl>
     </w7>
     <w7n>
       <Filename>orion-w7-5.1.1.release.1.3-UNOFFICIAL-20150731</Filename>
@@ -29,7 +29,7 @@
       <ChangelogUrl
         id="changelog"
         title="Changelog"
-        description="Changelog">****</ChangelogUrl>
+        description="Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
       <GappsUrl
         id="gapps"
         title="Gapps"
@@ -37,7 +37,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit SlimSaber bacon thread">****</XDAUrl>
+         description="Visit OrionLP LG L90 thread">****</XDAUrl>
     </w7n>
     <w7ds>
       <Filename>orion-w7-5.1.1.release.1.3-UNOFFICIAL-20150731</Filename>
@@ -48,7 +48,7 @@
       <ChangelogUrl
         id="changelog"
         title="Changelog"
-        description="Changelog">****</ChangelogUrl>
+        description="Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
       <GappsUrl
         id="gapps"
         title="Gapps"
@@ -56,7 +56,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit SlimSaber bacon thread">****</XDAUrl>
+         description="Visit OrionLP LG L90 thread"></XDAUrl>
     </w7ds>
 </Stable>
 </SlimOTA>
