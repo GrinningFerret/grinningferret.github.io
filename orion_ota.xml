@@ -18,7 +18,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit OrionLP LG L90 thread"></XDAUrl>
+         description="Visit OrionLP LG L90 thread">http://forum.xda-developers.com/lg-l90/development/rom-orionlp-t3185537</XDAUrl>
     </w7>
     <w7n>
       <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
@@ -37,7 +37,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit OrionLP LG L90 thread"></XDAUrl>
+         description="Visit OrionLP LG L90 thread">http://forum.xda-developers.com/lg-l90/development/rom-orionlp-t3185537</XDAUrl>
     </w7n>
     <w7ds>
       <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
@@ -56,7 +56,7 @@
         <XDAUrl
          id="xda"
          title="XDA"
-         description="Visit OrionLP LG L90 thread"></XDAUrl>
+         description="Visit OrionLP LG L90 thread">http://forum.xda-developers.com/lg-l90/development/rom-orionlp-t3185537</XDAUrl>
     </w7ds>
 </Stable>
 </SlimOTA>
