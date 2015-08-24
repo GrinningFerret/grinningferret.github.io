@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <w7>
-      <Filename>orion-w7-5.1.1.release.1.4-UNOFFICIAL-20150812</Filename>
+      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -21,7 +21,7 @@
          description="Visit OrionLP LG L90 thread"></XDAUrl>
     </w7>
     <w7n>
-      <Filename>orion-w7-5.1.1.release.1.4-UNOFFICIAL-20150812</Filename>
+      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -40,7 +40,7 @@
          description="Visit OrionLP LG L90 thread"></XDAUrl>
     </w7n>
     <w7ds>
-      <Filename>orion-w7-5.1.1.release.1.4-UNOFFICIAL-20150812</Filename>
+      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
       <RomUrl
         id="rom"
         title="Rom"
