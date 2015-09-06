@@ -2,11 +2,10 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <w7>
-      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
+      <Filename>orion-w7-5.1.1.release.1.6-OFFICIAL-20150906</Filename>
       <RomUrl
         id="rom"
-        title="Rom"
-        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347800322</RomUrl>
+        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347809717</RomUrl>
       <ChangelogUrl
         id="changelog"
         title="Changelog"
@@ -21,11 +20,11 @@
          description="Visit OrionLP LG L90 thread">http://forum.xda-developers.com/lg-l90/development/rom-orionlp-t3185537</XDAUrl>
     </w7>
     <w7n>
-      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
+      <Filename>orion-w7-5.1.1.release.1.6-OFFICIAL-20150906</Filename>
       <RomUrl
         id="rom"
         title="Rom"
-        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347800322</RomUrl>
+        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347809717</RomUrl>
       <ChangelogUrl
         id="changelog"
         title="Changelog"
@@ -40,11 +39,11 @@
          description="Visit OrionLP LG L90 thread">http://forum.xda-developers.com/lg-l90/development/rom-orionlp-t3185537</XDAUrl>
     </w7n>
     <w7ds>
-      <Filename>orion-w7-5.1.1.release.1.5-UNOFFICIAL-20150824</Filename>
+      <Filename>orion-w7-5.1.1.release.1.6-OFFICIAL-20150906</Filename>
       <RomUrl
         id="rom"
         title="Rom"
-        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347800322</RomUrl>
+        description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347809717</RomUrl>
       <ChangelogUrl
         id="changelog"
         title="Changelog"
