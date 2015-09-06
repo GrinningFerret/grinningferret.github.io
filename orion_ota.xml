@@ -5,6 +5,7 @@
       <Filename>orion-w7-5.1.1.release.1.6-OFFICIAL-20150906</Filename>
       <RomUrl
         id="rom"
+        title="Rom"
         description="Download the latest OrionLP build">https://www.androidfilehost.com/?fid=24052804347809717</RomUrl>
       <ChangelogUrl
         id="changelog"
