@@ -1,21 +1,21 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <w7>
-      <Filename>Resurrection-Remix-LP-v5.5.8-20151021-w7</Filename>
+      <Filename>Resurrection-Remix-LP-v5.5.9-20151212-w7</Filename>
       <DownloadUrl>
-        https://www.androidfilehost.com/?fid=24052804347843045
+        https://www.androidfilehost.com/?fid=24269982087016905
       </DownloadUrl>
     </w7>
     <w7n>
-      <Filename>Resurrection-Remix-LP-v5.5.8-20151021-w7</Filename>
+      <Filename>Resurrection-Remix-LP-v5.5.9-20151212-w7</Filename>
       <DownloadUrl>
-        https://www.androidfilehost.com/?fid=24052804347843045
+        https://www.androidfilehost.com/?fid=24269982087016905
       </DownloadUrl>
     </w7n>
     <w7ds>
-      <Filename>Resurrection-Remix-LP-v5.5.8-20151021-w7</Filename>
+      <Filename>Resurrection-Remix-LP-v5.5.9-20151212-w7</Filename>
       <DownloadUrl>
-        https://www.androidfilehost.com/?fid=24052804347843045
+        https://www.androidfilehost.com/?fid=24269982087016905
       </w7ds>
     </Stable>
   </OTACenter>
