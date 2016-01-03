@@ -3,7 +3,7 @@
   <Stable>
     <w7>
       <Filename>OrionOS-w7-2.0-OFFICIAL-xxxxxxxx.zip</Filename>
-      <RomUrl description="Download the latest OrionOs build" id="rom" title="Rom">https://google.de</RomUrl>
+      <RomUrl description="Download the latest OrionOs build" id="rom" title="Rom">https://www.androidfilehost.com/?fid=24352994023704696</RomUrl>
       <ChangelogUrl description="Changelog" id="changelog" title="Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
       <GappsUrl description="Download the latest SlimGapps" id="gapps" title="Gapps">https://goo.gl/Kryunb</GappsUrl>
       <XDAUrl description="Have a look at the code" id="xda" title="Github">https://github.com/TeamOrion</XDAUrl>
